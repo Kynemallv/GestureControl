@@ -1,0 +1,4 @@
+mediapipe~=0.9.0.1
+mouse~=0.7.1
+numpy~=1.23.5
+protobuf~=3.19.0
